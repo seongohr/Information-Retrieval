@@ -1,0 +1,41 @@
+Name: Seongoh Ryoo
+News site crawled: nytimes.com
+
+Fetch Statistics
+================
+# fetches attempted: 19138
+# fetched succeeded: 15260
+# fetched failed or aborted: 3878
+
+Outgoing URLs:
+==============
+Total URLs extracted: 838595
+# unique URLs extracted: 157746
+# unique URLs within News Site: 67002
+# unique URLs outside News Site: 90744
+
+Status Codes:
+=============
+200 OK: 15260
+301 Moved Permanently: 1987
+302 Found: 1850
+401 Unauthorized: 2
+403 Forbidden: 3
+404 Not Found: 17
+500 Internal Server Error: 1
+
+File Size:
+===========
+< 1KB: 0
+1KB ~ <10KB: 20
+10KB ~ <100KB: 605
+100KB ~ <1MB: 11553
+>= 1MB: 1181
+
+Content Types:
+==============
+image/png: 21
+text/html: 13334
+application/pdf: 3
+image/x-icon: 1
+
